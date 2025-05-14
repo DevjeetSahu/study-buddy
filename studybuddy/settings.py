@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-anlu&9wn6j88u7#xl9+3gkbzuh%fkd_2a!=s44j$w$z5_q4g$0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://study-buddy-r6ct.onrender.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['study-buddy-r6ct.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 
