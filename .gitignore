@@ -30,3 +30,12 @@ Procfile
 
 # Node (if using npm/yarn in frontend)
 node_modules/
+
+/media/
+*.sqlite3
+*.jpg
+*.png
+*.mp4
+__pycache__/
+*.pyc
+db.sqlite3
