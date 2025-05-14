@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Django specific
+*.log
+staticfiles/
+media/
+local_settings.py
+db.sqlite3
+
+# Heroku
+Procfile
+*.env
+
+# Node (if using npm/yarn in frontend)
+node_modules/
